@@ -27,12 +27,20 @@ false
 
 ### Part 2 - Interpretation
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
-* Variable name
-* Its data type
-* and example values you can assign them.
+* Variable name Floating point
+* Its data type decimal number
+* and example values you can assign them. hex output,decimal number in scientific notation
+* Variable name Integer
+* Its data type numbers
+* byte,short,integer,long and big integer numbers
+
+
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+*  double itemPrice equals a boolean variable
+*  int people needs to be a number
+*  redundant call to string format() line 28 , line 38 and line and line 41
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
